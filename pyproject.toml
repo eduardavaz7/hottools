@@ -32,3 +32,8 @@ license-files = ["LICENSE"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/eduardavaz7/hottools"
+Repository = "https://github.com/eduardavaz7/hottools"
+Issues = "https://github.com/eduardavaz7/hottools/issues"
