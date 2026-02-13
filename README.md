@@ -49,6 +49,9 @@ pip install git+https://github.com/eduarda-vaz/hottools.git
 
 - Python ≥ 3.9
 - `bcftools` (must be installed and on PATH)
+```bash
+pip install git+https://github.com/eduarda-vaz/hottools.git
+```
 - Indexed reference FASTA (`.fai` required)
 
 Check bcftools:
