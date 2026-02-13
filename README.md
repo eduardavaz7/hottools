@@ -40,7 +40,7 @@ If necessary, Hottools filters the input VCF/BCF to biallelic SNVs before encodi
 ### Install from GitHub
 
 ```bash
-pip install git+https://github.com/eduardavaz7/hottools.git
+pip install git+https://github.com/eduarda-vaz/hottools.git
 ```
 
 ---
