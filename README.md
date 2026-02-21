@@ -34,8 +34,6 @@ If necessary, Hottools filters the input VCF/BCF to biallelic SNVs before encodi
 pip install git+https://github.com/eduarda-vaz/hottools.git
 ```
 
----
-
 ## Requirements
 
 - Python ≥ 3.9
